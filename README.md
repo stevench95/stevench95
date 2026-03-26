@@ -37,4 +37,3 @@ I enjoy building practical web products and improving user experience through cl
 
 ---
 
-Thanks for visiting my profile.
